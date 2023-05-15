@@ -67,3 +67,15 @@ td{
     color: white;
     font-size: medium;
 }
+
+div{
+    border: 2px solid white;
+    width: 160;
+    height: 160px;
+}
+  
+img{
+    width: 160px;
+    height: 160px;
+    object-fit: fill;
+}

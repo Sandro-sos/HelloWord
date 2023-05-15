@@ -1,8 +1,8 @@
 //Parte 1 (Saudação, Hello - List)
 
 //Preenchimento no começo da tela (NOME E IDADE)
-let firstName = prompt ('Digite seu nome completo:')
-let date = prompt ('Digite a sua data de nascimento com a /:')
+//let firstName = prompt ('Digite seu nome completo:')
+//let date = prompt ('Digite a sua data de nascimento com a /:')
 
 //console.log (firstName)
 //console.log (age)
