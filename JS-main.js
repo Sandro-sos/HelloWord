@@ -18,15 +18,6 @@ let friends = ['Emilly', 'Gabriel', 'Pedó', 'Giordano']
 console.log (friends)
 //-------------------------------------------------
 
-//Parte 2 (Temperatura Conversão de Celsius para Fahrenheit)
-
-function calcularTemperatura() {
-    var temperaturaDigitada = document.getElementById("temperatura").value
-    var temperaturaEmfahrenheit = temperaturaDigitada * 1.8 + 32
-    document.getElementById('resultado-temperatura').value = temperaturaEmfahrenheit
-}
-//-------------------------------------------------
-
 //Mensagem automatica (Temperatura)
 //document.getElementById('temp celsius').innerHTML = 'Temperatura de ºC= ' + Celsius + '!'
 //document.getElementById('temp fah').innerHTML = 'Temperatura de °F= ' + Fahrenheit.toFixed(2) + '!'
